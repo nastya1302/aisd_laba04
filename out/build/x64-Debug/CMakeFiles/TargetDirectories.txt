@@ -1,0 +1,4 @@
+C:/Users/nasty/source/repos/aisd_laba04/out/build/x64-Debug/CMakeFiles/SearchTree.dir
+C:/Users/nasty/source/repos/aisd_laba04/out/build/x64-Debug/CMakeFiles/console_t.dir
+C:/Users/nasty/source/repos/aisd_laba04/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/nasty/source/repos/aisd_laba04/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
